@@ -29,8 +29,10 @@ Contributions are welcome and encouraged! To contribute to this repository, plea
 - Commit and push your changes to your branch
 - Create a `pull request`
 
-#License
+# License
+
 This repository is licensed under the MIT License. See the [LICENSE]() file for more details.
 
-Acknowledgements
+# Acknowledgements
+
 This repository was inspired by similar repositories created by the data science community, including the [Data Science Interview Questions]() repository by Alexey Grigorev and the [Machine Learning Interview Questions] repository by Elisha Tofunmi.
