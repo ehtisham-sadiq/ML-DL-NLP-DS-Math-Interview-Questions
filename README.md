@@ -35,4 +35,4 @@ This repository is licensed under the MIT License. See the [LICENSE]() file for 
 
 # Acknowledgements
 
-This repository was inspired by similar repositories created by the data science community, including the [Data Science Interview Questions]() repository by Alexey Grigorev and the [Machine Learning Interview Questions] repository by Elisha Tofunmi.
+This repository was inspired by similar repositories created by the data science community, including the [Data Science Interview Questions]() repository by Alexey Grigorev and the [Machine Learning Interview Questions]() repository by Elisha Tofunmi.
